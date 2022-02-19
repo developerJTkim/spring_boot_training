@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="SpringBoot_Training.SpringBoot_Training.main" target="17" />
-      <module name="SpringBoot_Training.SpringBoot_Training.test" target="17" />
+      <module name="SpringBoot_Training.SpringBoot_Training.main~1" target="17" />
+      <module name="SpringBoot_Training.SpringBoot_Training.test~1" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

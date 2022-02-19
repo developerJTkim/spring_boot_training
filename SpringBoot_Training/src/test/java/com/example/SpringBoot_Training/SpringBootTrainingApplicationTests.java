@@ -10,4 +10,16 @@ class SpringBootTrainingApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void testByPrint() {
+		try {
+			System.out.println("###################");
+			System.out.println("test By print start");
+			System.out.println("test By print end");
+			System.out.println("###################");
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 }
